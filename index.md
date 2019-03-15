@@ -2,7 +2,7 @@
 
 This page is for WBReader Application which developed by Weil Jimmer ([weils.net](https://weils.net/)).
 
-In order to improve our service, we decided to use GitHub page to store files.
+In order to improve our service, we decided to use GitHub page to release updates.
 
 ### Product Page
 
