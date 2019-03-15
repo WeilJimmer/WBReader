@@ -15,3 +15,9 @@ In order to improve our service, we decided to use GitHub page to release update
 [https://www.wbftw.org/](https://www.wbftw.org/)
 
 [https://weils.net/](https://weils.net/)
+
+### Promise
+
+I can assure you that we have NOT added any advertisement, virus or backdoor. 
+
+It will always be Safe, Free, no Ads.
