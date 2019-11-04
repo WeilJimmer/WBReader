@@ -8,7 +8,11 @@ In order to improve our service, we decided to use GitHub page to release update
 
 ### Product Page
 
+Website:
 [http://web.wbftw.org/product/baihuayueduqi](http://web.wbftw.org/product/baihuayueduqi)
+
+Google Play:
+[https://play.google.com/store/apps/details?id=org.wbftw.weil.txtreader](https://play.google.com/store/apps/details?id=org.wbftw.weil.txtreader)
 
 ### Support
 
