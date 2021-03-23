@@ -1,0 +1,4 @@
+9b7a9c38|1616817600|
+如果最近幾天一直遇到開啟書本就閃退問題，請到 Google Play 商店解除安裝《Android System WebView》，即可解決問題。
+
+https://play.google.com/store/apps/details?id=com.google.android.webview
