@@ -1,6 +1,6 @@
-9b7a9c39|1616817600|
-最近 Google 發布新聞 Android WebView 系統元件出現問題，正在進行修復。
+9b7a9c39|1616601600|
+最近 Google 發布新聞 Android WebView 系統元件出現問題，現已修復。
 
-如果最近幾天開啟書本一直遇到閃退問題，請到 Google Play 商店解除安裝《Android System WebView》，即可解決此問題。
+如果最近幾天開啟書本一直遇到閃退問題，請到 Google Play 商店將《Android System WebView》及《Chrome》更新到最新版，即可解決此問題。
 
-https://play.google.com/store/apps/details?id=com.google.android.webview
+https://www.google.com/appsstatus#hl=en&v=issue&sid=1&iid=aa75515d184a2423be444d676b7ebf45
