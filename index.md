@@ -16,6 +16,14 @@ Website:
 Google Play:
 [https://play.google.com/store/apps/details?id=org.wbftw.weil.txtreader](https://play.google.com/store/apps/details?id=org.wbftw.weil.txtreader)
 
+### Download
+
+[Google Play (Recommend)](https://play.google.com/store/apps/details?id=org.wbftw.weil.txtreader) | [Github (Update Infrequently)](https://github.com/WeilJimmer/WBReader/releases)
+
+### Report Bugs
+
+[Create a issue here](https://github.com/WeilJimmer/WBReader/issues/new)
+
 ### Support
 
 [https://www.wbftw.org/](https://www.wbftw.org/)
