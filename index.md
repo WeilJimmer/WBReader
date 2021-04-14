@@ -2,6 +2,8 @@
 
 (Package Name:org.wbftw.weil.txtreader)
 
+(Signature:2da53dac3c5493632401b90e04efe11074fa063c)
+
 This page is for WBReader Application which developed by Weil Jimmer ([weils.net](https://weils.net/)).
 
 In order to improve our service, we decided to use GitHub page to release updates.
