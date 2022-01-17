@@ -1,6 +1,2 @@
-9b7a9c39|1616601600|
-最近 Google 發布新聞 Android WebView 系統元件出現問題，現已修復。
-
-如果最近幾天開啟書本一直遇到閃退問題，請到 Google Play 商店將《Android System WebView》及《Chrome》更新到最新版，即可解決此問題。
-
-https://www.google.com/appsstatus#hl=en&v=issue&sid=1&iid=aa75515d184a2423be444d676b7ebf45
+d610d319|1642608000|
+最近釋出更新，前兩版本 12200 與 12201 有重大問題會導致應用程式崩潰無法開啟，已緊急更新至版本 12202，但 Google 商店推送時仍可能安裝有問題的版本，若發現無法開啟應用程式，請確保上 Google Play 更新至最新版本 12202。或是暫時不更新應用程式。
