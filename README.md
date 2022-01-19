@@ -35,3 +35,7 @@ Google Play:
 I can assure you that we have NOT added any advertisement, virus or backdoor. 
 
 It will always be Safe, Free, no Ads.
+
+### Privacy Policy
+
+https://wbreader.weil.app.wbftw.org/privacy/
