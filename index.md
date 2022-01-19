@@ -38,4 +38,4 @@ It will always be Safe, Free, no Ads.
 
 ### Privacy Policy
 
-https://wbreader.weil.app.wbftw.org/privacy/
+[https://wbreader.weil.app.wbftw.org/privacy/](https://wbreader.weil.app.wbftw.org/privacy/)
