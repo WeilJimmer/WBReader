@@ -1,4 +1,7 @@
-## WBReader 白樺閱讀 Official GitHub Page
+# WBReader 白樺閱讀 Official GitHub Page
+
+![主題圖片](https://wbreader.weil.app.wbftw.org/images/%E4%B8%BB%E9%A1%8C%E5%9C%96%E7%89%87-zh-tw.png)
+
 
 (Package Name:org.wbftw.weil.txtreader)
 
