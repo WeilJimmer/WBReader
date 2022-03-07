@@ -1,4 +1,4 @@
-## WBReader 白樺閱讀 Official GitHub Page
+## WBReader 白樺閱讀器 Official GitHub Page
 
 (Package Name:org.wbftw.weil.txtreader)
 
