@@ -1,7 +1,10 @@
 # WBReader 白樺閱讀器 Official GitHub Page
+![GitHub Release](https://img.shields.io/github/v/release/WeilJimmer/WBReader)
+![GitHub Repo stars](https://img.shields.io/github/stars/WeilJimmer/WBReader)
+
+### Product Page
 
 ![主題圖片](https://wbreader.weil.app.wbftw.org/images/%E4%B8%BB%E9%A1%8C%E5%9C%96%E7%89%87-zh-tw.png)
-
 
 (Package Name:org.wbftw.weil.txtreader)
 
@@ -10,8 +13,6 @@
 This page is for WBReader Application which developed by Weil Jimmer ([weils.net](https://weils.net/)).
 
 In order to improve our service, we decided to use GitHub page to release updates.
-
-### Product Page
 
 Website:
 [http://web.wbftw.org/product/baihuayueduqi](http://web.wbftw.org/product/baihuayueduqi)
