@@ -4,12 +4,6 @@
 
 ### Product Page
 
-![主題圖片](https://wbreader.weil.app.wbftw.org/images/%E4%B8%BB%E9%A1%8C%E5%9C%96%E7%89%87-zh-tw.png)
-
-(Package Name:org.wbftw.weil.txtreader)
-
-(Signature:2da53dac3c5493632401b90e04efe11074fa063c)
-
 This page is for WBReader Application which developed by Weil Jimmer ([weils.net](https://weils.net/)).
 
 In order to improve our service, we decided to use GitHub page to release updates.
@@ -22,7 +16,9 @@ Google Play:
 
 ### Download
 
-[Google Play (Recommend)](https://play.google.com/store/apps/details?id=org.wbftw.weil.txtreader) | [Github (Update Infrequently)](https://github.com/WeilJimmer/WBReader/releases)
+<a href="https://play.google.com/store/apps/details?id=org.wbftw.weil.txtreader"><img src="https://wbreader.weil.app.wbftw.org/images/get-it-on-google-play.png" alt="Get it on Google Play" height="80"></a> <a href="https://github.com/WeilJimmer/WBReader/releases"><img src="https://censorship.no/img/github-badge.png" alt="Get it on Github" height="80"></a>
+
+![主題圖片](https://wbreader.weil.app.wbftw.org/images/%E4%B8%BB%E9%A1%8C%E5%9C%96%E7%89%87-zh-tw.png)
 
 ### Report Bugs
 
