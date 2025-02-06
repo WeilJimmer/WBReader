@@ -1,5 +1,6 @@
 # WBReader 白樺閱讀器 Official GitHub Page
 ![GitHub Release](https://img.shields.io/github/v/release/WeilJimmer/WBReader)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/WeilJimmer/WBReader/total)
 ![GitHub Repo stars](https://img.shields.io/github/stars/WeilJimmer/WBReader)
 
 ### Product Page
