@@ -2,6 +2,8 @@
 ![GitHub Release](https://img.shields.io/github/v/release/WeilJimmer/WBReader)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/WeilJimmer/WBReader/total)
 ![GitHub Repo stars](https://img.shields.io/github/stars/WeilJimmer/WBReader)
+![Google Play Downloads](https://playbadges.pavi2410.me/badge/downloads?id=org.wbftw.weil.txtreader)
+![Google Play Rating](https://playbadges.pavi2410.me/badge/ratings?id=org.wbftw.weil.txtreader)
 
 ### Product Page
 
